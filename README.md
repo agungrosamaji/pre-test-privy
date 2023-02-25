@@ -1,1 +1,1 @@
-# pre-test-privy
+# This automation for register API using Cypress
